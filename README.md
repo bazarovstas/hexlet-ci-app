@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![main](https://github.com/bazarovstas/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/bazarovstas/hexlet-ci-app/actions/workflows/main.yml)
 
 # Example app for CI Hexlet course
 
